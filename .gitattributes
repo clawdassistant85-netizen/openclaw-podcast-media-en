@@ -1,0 +1,2 @@
+# Audio files stored as regular Git objects (no LFS)
+*.mp3 -filter -diff -merge text=auto
